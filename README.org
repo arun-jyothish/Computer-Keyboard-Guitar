@@ -1,0 +1,6 @@
+* Computer Keyboard Guitar
+
+
+You've already mastered the computer keyboard since you're a programmer. why don't you create your own music ?
+
+This tool allows you to create your own music if you know little bit of music theory and if you want it to play with your computer keyboard.
